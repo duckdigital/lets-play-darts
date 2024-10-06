@@ -118,7 +118,7 @@ h6 {
   font-weight: 400;
   font-style: normal;
 }
-.d-flex: {
+.d-flex {
   display: flex;
 }
 .players-list {
