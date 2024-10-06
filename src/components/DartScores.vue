@@ -108,39 +108,4 @@ const clearPlayers = () => {
 };
 </script>
 <style lang="css">
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-  font-family: 'Permanent Marker', cursive;
-  font-weight: 400;
-  font-style: normal;
-}
-.d-flex {
-  display: flex;
-}
-.players-list {
-  display: flex;
-  justify-content: space-around;
-  list-style-type: none;
-  padding: 0;
-  font-family: 'Permanent Marker', cursive;
-  font-weight: 400;
-  font-style: normal;
-  gap: 1.5rem;
-  li {
-    h4 {
-      border-bottom: 2px solid #fff;
-    }
-    margin: 0;
-    .round-scores {
-      padding: 1.5rem;
-      li {
-        margin: 0 0 1rem 0;
-      }
-    }
-  }
-}
 </style>
